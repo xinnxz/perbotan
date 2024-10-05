@@ -1,0 +1,7 @@
+{
+  "auto-claim-daily-bonus": "true",
+  "auto-do-task": "true",
+  "auto-tap": "true",
+  "auto-upgrade-tap": "false",
+  "auto-upgrade-collector": "false"
+}

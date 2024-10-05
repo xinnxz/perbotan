@@ -1,0 +1,6 @@
+requests
+colorama
+httpx
+httpx[http2]
+aiofiles
+fake-useragent

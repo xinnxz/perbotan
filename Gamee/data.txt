@@ -1,0 +1,1 @@
+query_id=AAFo0D4wAwAAAGjQPjDuPamX&user=%7B%22id%22%3A7251873896%2C%22first_name%22%3A%22C9%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22cesembilan%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1728046834&hash=a9602e74a2e4975e764102b5aef0d18edfa0c4415f5045199f92140b309cbca5

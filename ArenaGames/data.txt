@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A7251873896%2C%22first_name%22%3A%22C9%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22cesembilan%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-3076924172603067446&chat_type=sender&auth_date=1728043298&hash=f9fee6328171defdbf022f8c5ee15580320eb584636588b95eb93e0e3aa3a76a

@@ -1,0 +1,1 @@
+query_id=AAFymvseAwAAAHKa-x7DvJKA&user=%7B%22id%22%3A6962256498%2C%22first_name%22%3A%22Nasi%22%2C%22last_name%22%3A%22Goreng%20%F0%9F%8D%85%22%2C%22username%22%3A%22ganyalaabangku%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726557141&hash=b9d443e7c2a3923f4540025d3e4ff199c88f4c3b0cc28e4fb8940e1c66a0e014

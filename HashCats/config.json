@@ -1,0 +1,8 @@
+{
+  "auto-claim-daily-reward": "true",
+  "auto-do-task": "true",
+  "auto-claim-ref": "true",
+  "auto-tap": "true",
+  "auto-buy-card": "false",
+  "auto-stake": "false"
+}

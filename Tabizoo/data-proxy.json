@@ -1,0 +1,12 @@
+{
+  "accounts": [
+    {
+      "acc_info": "auth_data",
+      "proxy_info": "http://user:pass@ip:port"
+    },
+    {
+      "acc_info": "auth_data",
+      "proxy_info": "http://user:pass@ip:port"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "manifest_version": 3,
+  "name": "Bypass Telegram Web",
+  "version": "1.2.2",
+  "description": "Emulate Mobile on the Web version of Telegram to run Mini-Apps and Get full Data.",
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting",
+    "tabs",
+    "cookies",
+    "webRequest",
+    "webRequestBlocking",
+    "webNavigation",
+    "declarativeNetRequest",
+    "declarativeNetRequestFeedback",
+    "declarativeNetRequestWithHostAccess"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["scripts/telegram.js"],
+      "all_frames": true,
+      "run_at": "document_end"
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Xem thông tin",
+    "default_popup": "popup.html"
+  },
+  "declarative_net_request": {
+    "rule_resources": [
+      {
+        "id": "ruleset_1",
+        "enabled": true,
+        "path": "rules.json"
+      }
+    ]
+  },
+  "host_permissions": ["<all_urls>"]
+}
