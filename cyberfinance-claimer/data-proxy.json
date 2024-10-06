@@ -1,0 +1,148 @@
+{
+  "accounts": [
+    {
+      "acc_info": "query_id=AAH_oFZlAwAAAP-gVmVYJGyQ&user=%7B%22id%22%3A8142627071%2C%22first_name%22%3A%22ReonTech%20%7C%22%2C%22last_name%22%3A%22JB%20REFF%2C%20AKUN%2C%20JASTIP%2C%20VPS%22%2C%22username%22%3A%22reonshoppie%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727892852&hash=d5b673755048cbae08eb7f1e6ed3c8ba8a9eb1d6020acccee7131e9d37043b90",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@103.47.52.122:8164"
+    },
+    {
+      "acc_info": "query_id=AAGT_wUqAwAAAJP_BSqu_gdL&user=%7B%22id%22%3A7147487123%2C%22first_name%22%3A%220xTech%20%F0%9F%90%A4%20Gra-Gra%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22xkenzii%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727095865&hash=b3fbf41d092840d4ff55b031ac4e60da953b61c8576eeffabdb439ea7c72b872",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@45.61.97.34:6560"
+    },
+    {
+      "acc_info": "query_id=AAH_oFZlAwAAAP-gVmWiWGJa&user=%7B%22id%22%3A8142627071%2C%22first_name%22%3A%220xKen%22%2C%22last_name%22%3A%22%28%20%29%22%2C%22username%22%3A%22aplstech%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727095947&hash=6be6dc65536ea614858f91fed2ca3476937bfadb2d122f2f47d10f26bfc3e8c6",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@202.155.187.226:6993"
+    },
+    {
+      "acc_info": "query_id=AAHk1pUlAwAAAOTWlSUZofxg&user=%7B%22id%22%3A7073027812%2C%22first_name%22%3A%220xMayy%20%F0%9F%90%A4%20Gra-Gra%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22xeonmayy2%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726664846&hash=1099135f6a09d56001da5bfe3f584db54744c674fc239868b72844367c2d8316",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@161.123.93.76:5806"
+    },
+    {
+      "acc_info": "query_id=AAE4Jyc1AwAAADgnJzVn3PuY&user=%7B%22id%22%3A7334209336%2C%22first_name%22%3A%22Im%22%2C%22last_name%22%3A%22Yunn%22%2C%22username%22%3A%22Xeonyunn%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726664871&hash=d37d8f19f1719d096d7480d247e2c22d95fefa0533e445d78ae40d054125dbb1",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@45.41.162.16:6653"
+    },
+    {
+      "acc_info": "query_id=AAGPRoMLAwAAAI9GgwsVPMib&user=%7B%22id%22%3A6635603599%2C%22first_name%22%3A%22Im%22%2C%22last_name%22%3A%22Ling%22%2C%22username%22%3A%22xeonling1%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726664889&hash=e5cc14a0dd3282346e0a849e56727cbecc09ec9ed6e9765045eb3e1f8d17f98d",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@45.61.116.0:6678"
+    },
+    {
+      "acc_info": "query_id=AAHwGIM6AwAAAPAYgzq4NUwD&user=%7B%22id%22%3A7424121072%2C%22first_name%22%3A%220xWonk%20%F0%9F%90%A4%20Gra-Gra%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22Xeonwonk2%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726664973&hash=f79bb9d05392c302d2d778411f8c73d2e8179a823e1e33f1a02dbae0f5bd00f2",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@104.224.90.69:6230"
+    },
+    {
+      "acc_info": "query_id=AAHq-pNAAwAAAOr6k0D9jvDf&user=%7B%22id%22%3A7525890794%2C%22first_name%22%3A%22Im%22%2C%22last_name%22%3A%22Yinn%22%2C%22username%22%3A%22xeonyinn%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726665015&hash=6fc52a874a8da38220122ad49a67efa7bbd3e57abff90a47141170b703ff6d9f",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@38.170.157.133:9172"
+    },
+    {
+      "acc_info": "query_id=AAGJUj0nAwAAAIlSPSfh8LFF&user=%7B%22id%22%3A7100781193%2C%22first_name%22%3A%220xKyne%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22xkyne%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727096000&hash=c9d36074faffa86c9b856940a37739ed354b3f8e6fd4d61b4bef0a3d76930e72",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@161.123.215.7:6618"
+    },
+    {
+      "acc_info": "query_id=AAG0zewuAwAAALTN7C6PF0Uw&user=%7B%22id%22%3A7229722036%2C%22first_name%22%3A%22Rianti%22%2C%22last_name%22%3A%22Puspitasari%22%2C%22username%22%3A%22riantipuspit%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726664821&hash=370efa97c7deff5d262539464829a1872ff194275e9cac2ef2a2f8dce0cb5224",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@107.175.119.245:6773"
+    },
+    {
+      "acc_info": "query_id=AAH6J-JNAgAAAPon4k1rwnJy&user=%7B%22id%22%3A5601634298%2C%22first_name%22%3A%22putri%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22putrie7%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727096077&hash=17c66142453ac9b72c9c82e677d13a226fc0acc3232e3ae1676d54d5639609df",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@45.138.117.106:6878"
+    },
+    {
+      "acc_info": "query_id=AAEj7t0pAwAAACPu3SmGqCNH&user=%7B%22id%22%3A7144861219%2C%22first_name%22%3A%22nazla%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22xnazla%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727096113&hash=04af7fe6c55faccda1b58fef596d03b76f6dff7aa0ed15a15f99d25c53e5f108",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@45.138.117.233:7005"
+    },
+    {
+      "acc_info": "query_id=AAFvou0oAwAAAG-i7SiRqy8L&user=%7B%22id%22%3A7129113199%2C%22first_name%22%3A%220x%22%2C%22last_name%22%3A%221%22%2C%22username%22%3A%22x_xzuan01%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726665233&hash=8047724a4531e532f8dc96225c19fff683f7edeb4d3ec00124066f60860f0f5e",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@206.206.118.28:6266"
+    },
+    {
+      "acc_info": "query_id=AAFbWAw_AwAAAFtYDD-3b3vk&user=%7B%22id%22%3A7500224603%2C%22first_name%22%3A%220x%22%2C%22last_name%22%3A%222%22%2C%22username%22%3A%22x_xzuan02%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726665336&hash=c26ea6716c9847fd921dde965a43e0720ef2062a3711605dcc1509e136023531",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@45.61.121.234:6833"
+    },
+    {
+      "acc_info": "query_id=AAGphsM9AwAAAKmGwz2JgOrP&user=%7B%22id%22%3A7478675113%2C%22first_name%22%3A%220x%22%2C%22last_name%22%3A%223%22%2C%22username%22%3A%22x_xzuan03%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726665357&hash=a23032013ad4fdd6cccbd0e79b52e60277573e5ed686d6e60c68d0fc3da013ec",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@45.43.71.144:6742"
+    },
+    {
+      "acc_info": "query_id=AAFMD9UgAwAAAEwP1SBcQfD3&user=%7B%22id%22%3A6993284940%2C%22first_name%22%3A%220x%22%2C%22last_name%22%3A%224%22%2C%22username%22%3A%22x_xzuan04%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726665390&hash=56128d3db576196555a59f06d801fa39e1198c2ede1666f75a77b48f43d880e5",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@198.105.111.126:6804"
+    },
+    {
+      "acc_info": "query_id=AAHNS1M8AwAAAM1LUzy4s3eZ&user=%7B%22id%22%3A7454542797%2C%22first_name%22%3A%220x%22%2C%22last_name%22%3A%225%22%2C%22username%22%3A%22x_xzuan05%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726665410&hash=d9ed398471c3b7720f999b49b3713a6e5429328a257e2e16274676fdc96f0ba8",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@45.43.65.58:6572"
+    },
+    {
+      "acc_info": "query_id=AAHSEYQ7AwAAANIRhDtSIhwK&user=%7B%22id%22%3A7440962002%2C%22first_name%22%3A%220x%22%2C%22last_name%22%3A%226%22%2C%22username%22%3A%22x_xzuan06%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726665430&hash=421161c43c78fbf1798061d55edeeb463f8b0eb4d61e2be92e85414091119e52",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@198.105.101.71:5700"
+    },
+    {
+      "acc_info": "query_id=AAH0LCVBAwAAAPQsJUEKAKyI&user=%7B%22id%22%3A7535406324%2C%22first_name%22%3A%220x%22%2C%22last_name%22%3A%227%22%2C%22username%22%3A%22x_xzuan07%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726665469&hash=d8422228aadc3048deeec378c709304d556ce0a36cf0ef2fb7c39e3aafa4ece3",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@86.38.236.252:6536"
+    },
+    {
+      "acc_info": "query_id=AAEqzkk2AwAAACrOSTYvpgsf&user=%7B%22id%22%3A7353257514%2C%22first_name%22%3A%220x%22%2C%22last_name%22%3A%228%22%2C%22username%22%3A%22x_xzuan08%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726665492&hash=d1d3b42e1e94ef9fce40baddc11a10563545ff19d19f9ab390df196a20ac489a",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@217.69.121.69:5734"
+    },
+    {
+      "acc_info": "query_id=AAGkxkE2AwAAAKTGQTaIVmAH&user=%7B%22id%22%3A7352731300%2C%22first_name%22%3A%220x%22%2C%22last_name%22%3A%229%22%2C%22username%22%3A%22x_xzuan09%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726665577&hash=307241876ea08d7ac0082602e00aac230f6f2617735d1d19005cbb758e0103e5",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@45.43.84.152:6777"
+    },
+    {
+      "acc_info": "query_id=AAHuX-47AwAAAO5f7jsZVXqd&user=%7B%22id%22%3A7447928814%2C%22first_name%22%3A%220x10%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22x_xzuan10%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726665678&hash=4bf35509b2ac4183f048f741d47adf03368005968d866ac52f11e0002cd74496",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@64.137.93.204:6661"
+    },
+    {
+      "acc_info": "query_id=AAFyz2IyAwAAAHLPYjJjMBxR&user=%7B%22id%22%3A7287787378%2C%22first_name%22%3A%220x11%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22x_xzuan11%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726665697&hash=e53a41a91b774992b2ed673e916c367c9ad53360125bae436e99feded35c75ab",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@217.69.126.93:5963"
+    },
+    {
+      "acc_info": "query_id=AAGEdTE4AwAAAIR1MTj52ANW&user=%7B%22id%22%3A7385216388%2C%22first_name%22%3A%220x12%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22x_xzuan12%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726665718&hash=63c6bc8983a1f425feeddc8622280b63703aaea19f6aa67c4995b3a7d4d762f9",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@217.69.126.20:5890"
+    },
+    {
+      "acc_info": "query_id=AAF5oP8uAwAAAHmg_y4j-hmA&user=%7B%22id%22%3A7230955641%2C%22first_name%22%3A%220x13%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22x_xzuan13%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727096177&hash=4d49c964fd3f03ae858c27436d5920f56adeeea505f250831a5f34506d96f804",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@104.239.77.100:5823"
+    },
+    {
+      "acc_info": "query_id=AAFX8bA_AwAAAFfxsD-ci6b1&user=%7B%22id%22%3A7511011671%2C%22first_name%22%3A%220x14%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22x_xzuan14%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727096231&hash=4bc856131eafc2dd3a8584da855509e72103643465ae09541ed3f38aaa22d860",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@154.36.110.208:6862"
+    },
+    {
+      "acc_info": "query_id=AAEuS1I1AwAAAC5LUjUF_JCx&user=%7B%22id%22%3A7337036590%2C%22first_name%22%3A%220x15%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22x_xzuan15%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727096261&hash=8a20e25724c103a837f104d888912fe29b67b4475c65ac07ab44ddf889862253",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@209.242.202.104:6504"
+    },
+    {
+      "acc_info": "query_id=AAFEazFVAwAAAERrMVW55KF7&user=%7B%22id%22%3A7871753028%2C%22first_name%22%3A%220x16%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22x_xzuan16%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727096320&hash=5a810c15bbe931a2458dbb292f7eea0b7cefbd9100d6652603efea5f67ad1928",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@209.242.203.13:6728"
+    },
+    {
+      "acc_info": "user=%7B%22id%22%3A7775206146%2C%22first_name%22%3A%220x17%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22x_xzuan17%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-5197644778199913501&chat_type=supergroup&start_param=cj1ZckVWNDFDV2o5V0gmdT1yZWY%3D&auth_date=1727096345&hash=323c98f5cc0700ae209e614f1c6b865426a90ef25aaff5f3b9ed1b773c6643ca",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@216.173.98.212:6214"
+    },
+    {
+      "acc_info": "user=%7B%22id%22%3A7596042945%2C%22first_name%22%3A%220x18%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22x_xzuan18%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-5197644778199913501&chat_type=supergroup&start_param=cj1ZckVWNDFDV2o5V0gmdT1yZWY%3D&auth_date=1727096376&hash=741cb1f02a3c068d47f4ec127244c23f57af32b4c555cecf5074c7efbc2862d8",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@45.61.98.78:5762"
+    },
+    {
+      "acc_info": "user=%7B%22id%22%3A7776087077%2C%22first_name%22%3A%220x19%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22x_xzuan19%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-5197644778199913501&chat_type=supergroup&start_param=cj1ZckVWNDFDV2o5V0gmdT1yZWY%3D&auth_date=1727096426&hash=9dae8ab3f1436c587329999e10ded9e97cb152733824ab6581f56a0d1be23710",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@45.131.94.48:6035"
+    },
+    {
+      "acc_info": "user=%7B%22id%22%3A7397343011%2C%22first_name%22%3A%220x20%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22x_xzuan20%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-5197644778199913501&chat_type=supergroup&start_param=cj1ZckVWNDFDV2o5V0gmdT1yZWY%3D&auth_date=1727096467&hash=fbec17b632536d78b5ecc76b35cab5b45d01946c77c53cca3f7967e1135d9776",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@45.61.98.159:5843"
+    },
+    {
+      "acc_info": "user=%7B%22id%22%3A7893337040%2C%22first_name%22%3A%220x21%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22x_xzuan21%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-5197644778199913501&chat_type=supergroup&start_param=cj1ZckVWNDFDV2o5V0gmdT1yZWY%3D&auth_date=1727096496&hash=4751ac797f332bb5abd3e3dedaa8900ea2676be338960c9543e758cbcf775283",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@104.239.42.60:6085"
+    },
+    {
+      "acc_info": "user=%7B%22id%22%3A7732422595%2C%22first_name%22%3A%220x22%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22x_xzuan22%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-5197644778199913501&chat_type=supergroup&start_param=cj1ZckVWNDFDV2o5V0gmdT1yZWY%3D&auth_date=1727096531&hash=a06d5dbffbcb25211e1acdd4df37d06d9709df6fe9a2c79e397998be6182191e",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@206.41.164.7:6306"
+    },
+    {
+      "acc_info": "user=%7B%22id%22%3A7843395199%2C%22first_name%22%3A%220x23%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22x_xzuan23%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-5197644778199913501&chat_type=supergroup&start_param=cj1ZckVWNDFDV2o5V0gmdT1yZWY%3D&auth_date=1727096588&hash=fcd5bce590c6098c76ea1e2f3ab11b785029a32fac9490915c0de18cdfeafbf8",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@45.41.169.158:6819"
+    },
+    {
+      "acc_info": "user=%7B%22id%22%3A7249889915%2C%22first_name%22%3A%22Kazama%22%2C%22last_name%22%3A%221%22%2C%22username%22%3A%22kazama20%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-5197644778199913501&chat_type=supergroup&start_param=cj1ZckVWNDFDV2o5V0gmdT1yZWY%3D&auth_date=1727096628&hash=d34695b78c38c9cb4f8ec942a337ee191b53cd779c57342072812daac0481ae1",
+      "proxy_info": "http://kanariproxy381:n5oa4x77h6cz@206.41.175.15:6228"
+    }
+  ]
+}
