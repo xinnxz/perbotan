@@ -1,0 +1,4 @@
+requests
+colorama
+fake_useragent
+cloudscraper
