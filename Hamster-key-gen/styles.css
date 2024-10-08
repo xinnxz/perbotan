@@ -1,0 +1,271 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #1e1e1e;
+    color: #e0e0e0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    box-sizing: border-box;
+}
+
+.main-container {
+    width: calc(100% - 4px);
+    min-height: calc(100vh - 4px);
+    margin: 2px;
+    padding: 50px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+    box-sizing: border-box;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 36px;
+    color: #f3a847;
+}
+
+h2 {
+    font-size: 22px;
+    color: #f0c674;
+    font-weight: 500;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+footer {
+    text-align: center;
+    margin-top: 30px;
+    color: #888;
+}
+footer a {
+    color: #f3a847;
+    text-decoration: none;
+}
+
+footer a:visited {
+    color: #f3a847;
+}
+
+footer a:hover {
+    color: red;
+}
+
+footer a:active {
+    color: red;
+}
+
+
+.game-selection {
+    margin-bottom: 40px;
+}
+
+.game-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 15px;
+}
+
+.game-card {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    transition: transform 0.3s ease, background 0.3s ease;
+}
+
+.game-card img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.game-card span {
+    display: block;
+    font-size: 18px;
+    color: #f3a847;
+}
+
+.game-card:hover {
+    transform: translateY(-5px);
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.key-generation {
+    text-align: center;
+}
+
+.key-input {
+    margin-bottom: 20px;
+}
+
+#keyRange {
+    width: 60px;
+    padding: 10px;
+    border: 2px solid #f3a847;
+    border-radius: 8px;
+    font-size: 18px;
+    background: rgba(255, 255, 255, 0.1);
+    color: #e0e0e0;
+}
+
+button {
+    background: rgba(255, 255, 255, 0.1);
+    color: #e0e0e0;
+    border: 2px solid #f3a847;
+    padding: 15px 30px;
+    font-size: 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease, border-color 0.3s ease;
+}
+
+button:hover {
+    background: rgba(255, 255, 255, 0.2);
+    border-color: #f3a847;
+}
+
+.hidden {
+    display: none;
+}
+
+.progress-bar {
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 8px;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+#progressBar {
+    height: 20px;
+    background-color: #f3a847;
+    width: 0;
+    transition: width 0.4s ease;
+}
+
+#progressText, #progressLog, #copyStatus {
+    margin-top: 10px;
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+}
+
+.key-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 8px;
+    flex-wrap: wrap;
+    transform: translateX(-5px);
+}
+
+.key-item input {
+    width: auto;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #f3a847;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.1);
+    color: #e0e0e0;
+    text-align: center;
+    overflow: hidden;
+}
+
+.copyKeyBtn {
+    background: rgba(255, 255, 255, 0.1);
+    border: 2px solid #f3a847;
+    padding: 10px 20px;
+    color: #e0e0e0;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease, border-color 0.3s ease;
+    margin-left: 10px;
+    transform: translateX(-5px);
+}
+
+.copyKeyBtn:hover {
+    background: rgba(255, 255, 255, 0.2);
+    border-color: #f3a847;
+}
+
+@media (max-width: 768px) {
+    .key-item {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .key-item input, .copyKeyBtn {
+        margin-bottom: 10px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .copyKeyBtn {
+        margin-left: 0;
+    }
+}
+
+.generated-keys-page #copyAllBtn {
+    display: block;
+    margin: 20px auto;
+    background-color: #f3a847;
+    color: #1e1e1e;
+    padding: 15px 30px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.generated-keys-page #keysList {
+    margin: 20px 0;
+}
+
+@media (max-width: 768px) {
+    .generated-keys-page .key-item input {
+        font-size: 14px;
+    }
+}
+
+#selectedGameContainer {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+#selectedGameCard {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 300px;
+    margin: 0 auto;
+    pointer-events: none;
+    transition: none;
+}
+
+#selectedGameCard img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+#selectedGameCard span {
+    display: block;
+    font-size: 18px;
+    color: #f3a847;
+    font-weight: 500;
+}

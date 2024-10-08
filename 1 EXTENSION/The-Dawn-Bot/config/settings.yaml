@@ -1,0 +1,21 @@
+threads: 5 # number of threads to run (min 1)
+keepalive_interval: 120 # seconds
+
+two_captcha_api_key: ""
+anti_captcha_api_key: ""
+captcha_module: anticaptcha # 2captcha or anticaptcha
+
+delay_before_start:
+    min: 5
+    max: 10
+
+imap_settings:
+  rambler.ru: imap.rambler.ru
+  hotmail.com: imap-mail.outlook.com
+  outlook.com: imap-mail.outlook.com
+  mail.ru: imap.mail.ru
+  gmail.com: imap.gmail.com
+  gmx.com: imap.gmx.com
+  yahoo.com: imap.mail.yahoo.com
+  gmx.net: imap.gmx.net
+  gmx.de: imap.gmx.net

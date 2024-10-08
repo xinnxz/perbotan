@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A7147487123%2C%22first_name%22%3A%220xTech%20%F0%9F%90%A4%20Gra-Gra%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22xkenzii%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-1918880735567052635&chat_type=sender&auth_date=1727574011&hash=13b5e948e646991e5f1296f94db8cba53b851cb30d4c200dc1cdd2b623c672fd

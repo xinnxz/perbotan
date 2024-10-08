@@ -1,0 +1,17 @@
+__pycache__
+orang2
+sessions
+*.session
+telegram
+*.txt
+*.py
+!bot.py
+*.json
+*.log
+*.html
+templates
+!data.txt
+!proxies.txt
+!models.py
+!generate_report.py
+!requirements.txt

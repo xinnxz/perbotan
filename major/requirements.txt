@@ -1,4 +1,5 @@
-aiohttp==3.10.5
-colorama==0.4.6
-fake-useragent==1.5.1
-Faker==28.4.1
+httpx
+httpx[http2]
+aiofiles
+colorama
+aiosqlite

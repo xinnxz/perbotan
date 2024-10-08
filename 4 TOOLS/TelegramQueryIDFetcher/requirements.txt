@@ -1,0 +1,7 @@
+pyrogram
+tgcrypto
+python-dotenv
+halo
+colorama
+requests
+aiohttp

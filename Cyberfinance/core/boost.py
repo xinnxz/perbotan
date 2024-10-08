@@ -13,7 +13,7 @@ def boost(token, proxies=None):
         )
         data = response.json()
         hammer_price = data["message"]["hammerPrice"]
-        return hammer_price
+        return int(hammer_price)
     except:
         return None
 

@@ -1,0 +1,5 @@
+requests
+colorama
+cloudscraper
+pydantic-settings
+tzdata

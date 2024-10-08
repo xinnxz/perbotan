@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A7893337040%2C%22first_name%22%3A%220x21%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22x_xzuan21%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=2745129422163798065&chat_type=sender&start_param=utm_bot_play&auth_date=1727170168&hash=31380857f41c90d99156497bc28a3653f1c18fbb64d705cfa8c7bbe2499c1bd3

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hamster Key Generator</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+        @font-face {
+            font-family: 'CustomFont';
+            src: url('./CustomFont.woff2') format('woff2');
+        }
+        body {
+            font-family: 'CustomFont', sans-serif;
+        }
+    </style>
+</head>
+<body class="generated-keys-page">
+    <div class="main-container">
+        <header>
+            <h1>Hamster Key Generator</h1>
+        </header>
+
+        <section class="game-selection">
+            <h2>Select Your Game : </h2>
+            <div class="game-grid">
+                <div class="game-card" data-game="15">
+                    <img src="https://cdn.hamsterkombat.io/hide_balls/image.webp" alt="Hide Ball">
+                    <span>Hide Ball</span>
+                </div>
+                <div class="game-card" data-game="14">
+                    <img src="https://cdn.hamsterkombat.io/bouncemasters/image.webp" alt="Bouncemasters">
+                    <span>Bouncemasters</span>
+                </div>
+                <div class="game-card" data-game="13">
+                    <img src="https://cdn.hamsterkombat.io/stone_age/image.webp" alt="Stone Age">
+                    <span>Stone Age</span>
+                </div>
+                <div class="game-card" data-game="12">
+                    <img src="https://cdn.hamsterkombat.io/fluff/image.webp" alt="Fluff Crusade">
+                    <span>Fluff Crusade</span>
+                </div>
+                <div class="game-card" data-game="10">
+                    <img src="https://cdn.hamsterkombat.io/tile_trio/image.webp" alt="Tile Trio">
+                    <span>Tile Trio</span>
+                </div>
+                <div class="game-card" data-game="11">
+                    <img src="https://cdn.hamsterkombat.io/zoopolis/image.webp" alt="Zoopolis">
+                    <span>Zoopolis</span>
+                </div>
+                <div class="game-card" data-game="8">
+                    <img src="https://cdn.hamsterkombat.io/mow_trim/image.webp" alt="Mow and Trim">
+                    <span>Mow and Trim</span>
+                </div>
+                <div class="game-card" data-game="7">
+                    <img src="https://cdn.hamsterkombat.io/polysphere/image.webp" alt="Polysphere">
+                    <span>Polysphere</span>
+                </div>
+                <div class="game-card" data-game="6">
+                    <img src="https://cdn.hamsterkombat.io/twerk/image.webp" alt="Twerk Race 3D">
+                    <span>Twerk Race 3D</span>
+                </div>
+                <div class="game-card" data-game="5">
+                    <img src="https://cdn.hamsterkombat.io/merge_away/image.webp" alt="Merge Away">
+                    <span>Merge Away</span>
+                </div>
+                <div class="game-card" data-game="2">
+                    <img src="https://cdn.hamsterkombat.io/chain_cube/image.webp" alt="Chain Cube 2048">
+                    <span>Chain Cube 2048</span>
+                </div>
+                <div class="game-card" data-game="4">
+                    <img src="https://cdn.hamsterkombat.io/train_miner/image.webp" alt="Train Miner">
+                    <span>Train Miner</span>
+                </div>
+            </div>
+        </section>
+
+        <section class="key-generation hidden">
+            <h2>Generate Keys</h2>
+            <div id="selectedGameContainer" class="hidden">
+                <div id="selectedGameCard" class="game-card"></div>
+            </div>
+            <div class="key-input">
+                <label for="keyRange">Select Number of Keys</label>
+                <input type="number" id="keyRange" min="1" max="10" value="1">
+            </div>
+            <button id="startBtn">Generate Keys</button>
+        </section>
+
+        <section id="progressContainer" class="hidden">
+            <div class="progress-bar">
+                <div id="progressBar"></div>
+            </div>
+            <p id="progressText">0%</p>
+            <p id="progressLog">Starting...</p>
+        </section>
+
+        <section id="keyContainer" class="hidden">
+            <h2>Generated Keys : </h2>
+            <div id="keysList"></div>
+            <button id="copyAllBtn">Copy All Keys</button>
+            <p id="copyStatus" class="hidden">Keys copied to clipboard!</p>
+        </section>
+
+        <footer>
+            <p>This project is <a href="https://github.com/LampStack/hamster-key-gen" target="_blank">open source</a> and developed by @osClub.</p>
+        </footer>            
+    </div>
+    <div id="errorContainer" class="hidden">
+        <p id="errorMessage" class="error-message"></p>
+    </div>    
+    <script src="script.js"></script>
+</body>
+</html>
