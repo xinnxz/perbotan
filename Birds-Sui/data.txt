@@ -1,0 +1,1 @@
+query_id=AAFP3UMUAwAAAE_dQxSXiwx2&user=%7B%22id%22%3A6782442831%2C%22first_name%22%3A%220xLuthfi%20%7B%20%7D%22%2C%22last_name%22%3A%22%E7%9A%BF%20Deeplchain%22%2C%22username%22%3A%22luthfialv%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1729239408&hash=955266818349852f700e78d17748c6002408a324ada7c4761f9be985131032c6
